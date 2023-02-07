@@ -1,4 +1,4 @@
-## Hello everyone ! 🫡
+# Hello everyone ! 🫡
 
 <h3>I am a French student in the second year of a Bachelor's degree in computer science 🧑🏽‍💻.</br> I like to work on new languages and new technologies every day.</h3> 
 
