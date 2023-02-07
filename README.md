@@ -19,7 +19,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=berdinclement&show_icons=true&locale=en" alt="berdinclement" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=berdinclement&" alt="berdinclement" /></p>
-
 ## Follow me :
 - Here is my <a href="https://www.linkedin.com/in/cl%C3%A9ment-berdin-605311230/">Linkedin</a>
