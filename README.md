@@ -22,3 +22,5 @@
 ## Contact me :
 - Here is my <a href="https://www.linkedin.com/in/cl%C3%A9ment-berdin-605311230/">Linkedin</a>
 - My email : clement.berdin@gmail.com
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=berdinclement&label=Profile%20views&color=0e75b6&style=flat" alt="berdinclement" /> </p>
