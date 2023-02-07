@@ -13,4 +13,4 @@
 -->
 
 ## Follow me :
-- 
+- Here is my <a href="https://www.linkedin.com/in/cl%C3%A9ment-berdin-605311230/">Linkedin</a>
