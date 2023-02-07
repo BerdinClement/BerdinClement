@@ -1,12 +1,16 @@
 ## Hello everyone ! 🫡
 
-### I am a French student in the second year of a Bachelor's degree in computer science. I like to work on new languages and new technologies every day.
+### I am a French student in the second year of a Bachelor's degree in computer science. 
+### I like to work on new languages and new technologies every day.
 
 - 🔭 I’m currently working on some types of projects
 - 🌱 I’m currently learning Machine learning with Tensorflow
+<!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
+-->
+
 
