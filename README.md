@@ -3,7 +3,7 @@
 <h3>I am a French student in the second year of a university bachelor of technology in computer science 🧑🏽‍💻.</br> I like to work on new languages and new technologies every day.</h3> 
 
 - 🔭 I’m currently working on some types of projects
-- 🌱 I’m currently learning Machine learning with Tensorflow
+- 🌱 I’m currently learning ReactJs and Node.js
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
