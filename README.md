@@ -1,4 +1,4 @@
-# Hello everyone ! 🫡
+# Hi devs ! 🫡
 
 <h3>I am a French student in the second year of a university bachelor of technology in computer science 🧑🏽‍💻.</br> I like to work on new languages and new technologies every day.</h3> 
 
