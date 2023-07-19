@@ -22,6 +22,7 @@
 ![Javascript](https://img.shields.io/badge/javascript-%231f231d.svg?style=for-the-badge&logo=javascript&logoColor=E0EA36)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%231f231d.svg?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
 ![Scss](https://img.shields.io/badge/scss-%231f231d.svg?style=for-the-badge&logo=sass&logoColor=pink)
+![Electron](https://img.shields.io/badge/electon-%231f231d?style=for-the-badge&logo=electron&logoColor=ABC7E0)
 
 ### Backend :
 ![NodeJs](https://img.shields.io/badge/nodeJs-%231f231d.svg?style=for-the-badge&logo=nodejs&logoColor=white)
