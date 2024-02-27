@@ -1,4 +1,4 @@
-# Hi devs ! 🫡
+![Header](./header.png)
 
 <h3>I am a French student in the third year of a university bachelor of technology in computer science 🧑🏽‍💻.</br> I like to work on new languages and new technologies every day.</h3> 
 
