@@ -35,10 +35,11 @@
 ![Docker](https://img.shields.io/badge/docker-%231f231d?style=for-the-badge&logo=docker&logoColor=0db7ed)
 ![Python](https://img.shields.io/badge/python-%231f231d?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/java-%231f231d?style=for-the-badge&logo=java)
-![C](https://img.shields.io/badge/C-%231f231d?style=for-the-badge&logo=c)
 ![Postman](https://img.shields.io/badge/Postman-%231f231d.svg?style=for-the-badge&logo=Postman)
 ![Figma](https://img.shields.io/badge/Figma-%231f231d.svg?style=for-the-badge&logo=Figma)
 ![Blender](https://img.shields.io/badge/Blender-%231f231d.svg?style=for-the-badge&logo=Blender)
+![Unity](https://img.shields.io/badge/Unity-%231f231d.svg?style=for-the-badge&logo=Unity)
+![C#](https://img.shields.io/badge/C%23-%231f231d.svg?style=for-the-badge&logo=CSharp)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=berdinclement&count_private=true&title_color=ffffff&text_color=64748b&icon_color=3382ed&bg_color=0d1117&show_icons=true&locale=en&layout=compact&theme=dark" alt="berdinclement" /></p>
 
