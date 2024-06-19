@@ -28,7 +28,7 @@
 ![MongoDb](https://img.shields.io/badge/mongodb-%231f231d.svg?style=for-the-badge&logo=mongodb&logoColor=6aa84f)
 ![MySQL](https://img.shields.io/badge/mysql-%231f231d.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%231f231d.svg?style=for-the-badge&logo=PostgreSQL&logoColor=9BC7EF)
-![Symfony](https://img.shields.io/badge/Symfony-%231f231d.svg?style=for-the-badge&logo=Symfony)
+![NestJs](https://img.shields.io/badge/NestJs-%231f231d.svg?style=for-the-badge&logo=NestJs&logoColor=e82b58)
 
 #### Others :
 
