@@ -5,7 +5,7 @@
 * 🌍  I'm based in France
 * ✉️  You can contact me at [clement.berdin@gmail.com](mailto:clement.berdin@gmail.com)
 * 🚀  I'm currently working on some NextJs projects
-* 🧠  I'm learning AdonisJs
+* 🧠  I'm learning NestJs
  <!-- * 🖥️  See my portfolio at [clementberdin.fr](http://clementberdin.fr) -->
 
 ## Languages and Tools:
