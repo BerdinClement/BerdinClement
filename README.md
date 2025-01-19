@@ -1,12 +1,11 @@
 ![Header](./header.png)
 
-<h3>I am a French student in the third year of a university bachelor of technology in computer science 🧑🏽‍💻.</br> I like to work on new languages and new technologies every day.</h3> 
+<h3>I’m a first-year Master's student in full-stack development, splitting my time between academic learning and working in R&D as part of an apprenticeship. My goal is to master cutting-edge technologies while exploring new languages and tools every day. 🚀</h3> 
 
 * 🌍  I'm based in France
 * ✉️  You can contact me at [clement.berdin@gmail.com](mailto:clement.berdin@gmail.com)
-* 🚀  I'm currently working on some NextJs projects
+* 🚀  I'm currently working on some C# projects
 * 🧠  I'm learning NestJs
- <!-- * 🖥️  See my portfolio at [clementberdin.fr](http://clementberdin.fr) -->
 
 ## Languages and Tools:
 
